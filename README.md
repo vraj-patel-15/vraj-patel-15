@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi, I'm Vraj 👋
+
+💻 Computer Engineering Student  
+🚀 Building apps & exploring AI  
+🎯 Currently learning:Android Development 
+
+## 🔧 Tech Stack
+- Java, Python
+- Android, JavaFX
+- Git, GitHub
+
+## 🚀 Projects
+- 
+
+## 📊 GitHub Stats
+(add later)
+
+## 📫 Contact
+- LinkedIn
+- Email
 
 <!--
 **vraj-patel-15/vraj-patel-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
